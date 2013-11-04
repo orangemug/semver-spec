@@ -1,0 +1,5 @@
+{
+  "name": "semver-spec",
+  "description": "The semver specs from <github.com/isaacs/node-semver>",
+  "version": "0.1.0"
+}
