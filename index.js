@@ -1,6 +1,7 @@
 module.exports = {
 	parse: [
-		require("./parse")
+		require("./parse/strict"),
+		require("./parse/loose")
 	],
 	compare: [
 		require("./compare/comparison"),

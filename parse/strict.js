@@ -1,5 +1,5 @@
-{
-	"__comment": "{version} should be parse to {result}",
+module.exports = {
+	"__comment": "strict {version} should be parse to {result}",
 	"data": [
 		{
 			"version": "1.2.3",
