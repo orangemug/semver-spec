@@ -22,6 +22,26 @@ module.exports = {
 				"prerelease": [],
 				"build": []
 			}
+		},
+		{
+			"version": "1-beta",
+      "loose": true,
+			"result": null
+		},
+		{
+			"version": "1-beta+build",
+      "loose": true,
+			"result": null
+		},
+		{
+			"version": "1.2-beta",
+      "loose": true,
+			"result": null
+		},
+		{
+			"version": "1.2-beta+build",
+      "loose": true,
+			"result": null
 		}
 	]
 }
