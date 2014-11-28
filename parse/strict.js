@@ -70,6 +70,22 @@ module.exports = {
 				"prerelease": [],
 				"build": ["otherbuild"]
 			}
+		},
+		{
+			"version": "1",
+			"result": null
+		},
+		{
+			"version": "1.2",
+			"result": null
+		},
+		{
+			"version": "1.2-beta",
+			"result": null
+		},
+		{
+			"version": "1.2-beta+build",
+			"result": null
 		}
 	]
 }
