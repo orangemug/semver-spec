@@ -86,6 +86,16 @@ module.exports = {
 		{
 			"version": "1.2-beta+build",
 			"result": null
+		},
+		{
+			"version": "v1.2.3+otherbuild",
+			"result": {
+				"major": 1,
+				"minor": 2,
+				"patch": 3,
+				"prerelease": [],
+				"build": ["otherbuild"]
+			}
 		}
 	]
 }
